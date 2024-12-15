@@ -1,0 +1,62 @@
+.logo{
+     width: 30%;
+     height: 660px;
+     margin-left: 35%;
+     background-color: white;
+     padding-top: 5vw;
+}
+
+body{
+    background-image: url(../HRIT\ Edit.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    margin: 0px;
+}
+/* body *:not(.logo){
+    filter: blur(5px);
+} */
+
+h1{
+    text-align: center;
+}
+img{
+     margin-left: 35%;
+}
+
+.roll{
+   width: 70%;
+   height: 50px;
+   margin-left: 15%;
+   /* margin-bottom:; */
+}
+
+input{
+    width: 70%;
+    height: 50px;
+    margin-left: 15%;
+    margin-top: 2%;
+}
+
+.search{
+    margin-top: 2%;
+    width: 35%;
+   height: 50px;
+   margin-left: 32.5%;
+   background-color: rgb(78, 7, 7);
+   color: white;
+}
+
+p{
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+/* .image{
+    /* background-image: url(../HRIT\ Edit.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    filter:blur(5px);
+} 
+*/

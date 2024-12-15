@@ -1,0 +1,57 @@
+.logo{
+    width: 30%;
+    height: 660px;
+    margin-left: 35%;
+    background-color: white;
+    padding-top: 5vw;
+}
+
+body{
+   background-image: url(../HRIT\ Edit.jpg);
+   background-size: cover; /* Adjusts the background image to cover the entire element */
+   background-repeat: no-repeat; /* Prevents the background image from repeating */
+   background-position: center; /* Centers the background image */
+}
+
+
+h1{
+   text-align: center;
+}
+img{
+    margin-left: 35%;
+}
+
+.roll{
+  width: 70%;
+  height: 50px;
+  margin-left: 15%;
+  /* margin-bottom:; */
+}
+
+input{
+   width: 70%;
+   height: 50px;
+   margin-left: 15%;
+   margin-top: 2%;
+}
+
+.search{
+   margin-top: 2%;
+   width: 35%;
+  height: 50px;
+  margin-left: 32.5%;
+  background-color: rgb(78, 7, 7);
+  color: white;
+}
+
+p{
+   padding-left: 5vw;
+   padding-right: 5vw;
+}
+
+.Forget{
+    margin-left: 37%;
+}
+*{
+   margin: 0px;
+}
